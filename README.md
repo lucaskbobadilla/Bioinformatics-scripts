@@ -1,10 +1,10 @@
 # Python-Bioinformatics-scripts
 
-This repository contains a sort of Python scripts for daily bioinformatics task
+This repository contains a sort of Python scripts for daily bioinformatics tasks.
 
 ## N50 fasta statistics
 
-the script `N50_stats.py` will give the stats of a draft genome:
+The script `N50_stats.py` will give the stats of a draft genome:
 
 ### Usage
 
