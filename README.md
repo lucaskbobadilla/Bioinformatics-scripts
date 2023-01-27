@@ -1,6 +1,6 @@
-# Python-Bioinformatics-scripts
+# My bioinformatics daily scripts
 
-This repository contains a sort of Python scripts for daily bioinformatics tasks.
+This repository contains a sort of scripts for daily bioinformatics tasks.
 
 ## N50 fasta statistics
 
